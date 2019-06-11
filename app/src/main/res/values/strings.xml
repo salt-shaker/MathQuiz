@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="goButton">go</string>
+    <string name="startHint">Press GO to start quiz</string>
+    <string name="tvTimer">00:00</string>
+    <string name="tvScore">0000</string>
+</resources>
